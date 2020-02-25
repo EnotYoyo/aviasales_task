@@ -1,0 +1,13 @@
+aiohttp==3.6.2
+async-timeout==3.0.1
+attrs==19.3.0
+beautifulsoup4==4.8.2
+chardet==3.0.4
+idna==2.9
+lxml==4.5.0
+marshmallow==3.5.0
+multidict==4.7.4
+pytz==2019.3
+PyYAML==5.3
+soupsieve==1.9.5
+yarl==1.4.2

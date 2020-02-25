@@ -1,0 +1,9 @@
+agents_controller:
+  agents_timeout: 5
+  airports_timezones: "config/airports_timezones.json"
+
+agents:
+  via:
+    date_format: "%Y-%m-%dT%H%M"
+    onward_response: "agent/agents/via_answers/RS_ViaOW.xml"
+    onward_return_response: "agent/agents/via_answers/RS_Via-3.xml"
